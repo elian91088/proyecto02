@@ -1,1 +1,0 @@
-print("Hola, este es un programa de prueba 2.")
